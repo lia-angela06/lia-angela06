@@ -1,10 +1,10 @@
 # Hi, I'm Carlia 👋
 
-**Computer Engineering Junior @ Virginia State University** | GPA: 3.96 | Honors College
+**Computer Engineering Senior @ Virginia State University** | GPA: 3.97 | Honors College
 
 I build things at the intersection of hardware and software — from embedded firmware running on microcontrollers to back-end desktop applications. I'm passionate about real-time systems, low-level hardware-software integration, and making complex engineering feel approachable.
 
-Currently seeking **Summer 2026 internship opportunities** in embedded systems, software engineering, or hardware-software integration. ✅ CPT/OPT authorized — no sponsorship required.
+Currently seeking **new-grad software and embedded roles** in embedded systems, software engineering, or hardware-software integration. ✅ CPT/OPT authorized — no sponsorship required.
 
 ---
 
@@ -32,10 +32,10 @@ Tools:         Proteus  •  Multisim  •  Quartus Prime  •  Git  •  Linux 
 
 ## 🌱 Currently
 
-- 📚 Junior year — Computer Engineering @ VSU
-- 🔬 SI PASS Leader helping students in Circuit Analysis & Engineering
-- 🤝 SWE Communications & Social Media Chair
-- 🚀 Actively applying for Summer 2026 internships
+- 📚 Senior year — Computer Engineering @ VSU
+- 🔬 SI PASS Mentor Supervisor
+- 🤝 SWE President
+- 🚀 Actively applying for new-grad software and embedded roles
 
 ---
 
